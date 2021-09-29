@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+<img width="400" alt="tiktok_ui_home" src="https://user-images.githubusercontent.com/82129639/135191305-3e785b67-e44e-48d9-9808-7afb3aef5165.png">
+<img width="400" alt="tiktok_ui_profile" src="https://user-images.githubusercontent.com/82129639/135191322-1acb8805-26a0-4f3f-8264-6de31af32d80.png">
+
